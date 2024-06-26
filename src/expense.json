@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "amount": 500,
+    "category": "gym fees",
+    "description": "Paid my gym fees",
+    "date": "2024-06-06",
+    "mode": "Cash"
+  },
+  {
+    "id": 2,
+    "amount": 200,
+    "category": "Vegetables",
+    "description": "Paid vegetables bill.",
+    "date": "2024-06-07",
+    "mode": "Cash"
+  },
+  {
+    "id": 3,
+    "amount": 200,
+    "category": "Wi-fi",
+    "description": "Wi-fi recharge bill",
+    "date": "2024-06-09",
+    "mode": "Online"
+  }
+]
